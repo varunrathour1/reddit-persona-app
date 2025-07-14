@@ -1,0 +1,78 @@
+Based on the provided Reddit data, here is a detailed user persona for /u/kojied:
+
+**User Persona: /u/kojied**
+
+**Basic Info:**
+- Age: Late 20s to early 30s (inferred)
+- Occupation: Tech professional, possibly in software development or data science (inferred)
+- Interests: Gaming (especially strategy games), technology, finance, urban living, anime/manga
+- Location: New York City (inferred)
+
+**Personality Traits:**
+- Analytical
+- Tech-savvy
+- Curious
+- Adaptable
+- Somewhat cynical
+
+**Motivations:**
+- Staying up-to-date with emerging technologies
+- Optimizing personal productivity and workflow
+- Financial growth and investment opportunities
+- Cultural experiences and entertainment
+
+**Goals & Needs:**
+- To find efficient ways to integrate new technologies into daily life
+- To maximize returns on investments and financial decisions
+- To balance work and leisure activities in an urban setting
+- To engage with immersive entertainment experiences
+
+**Frustrations:**
+- Technical limitations of current devices and software
+- Inconsistencies in user experiences across platforms
+- Lack of advanced features in some applications
+- Crowded public transportation and urban inconveniences
+
+**Behavior & Habits:**
+- Regularly engages in discussions about technology, gaming, and finance
+- Experiments with new devices and software
+- Balances work-related discussions with casual entertainment topics
+- Frequently comments on urban living experiences and challenges
+
+**Quote:**
+"I've been trying to actually use the Vision Pro to get some work done, but without github and visual studio code, it's not been the easiest... If this device can't replace my entire workflow, I don't know if I can justify the price."
+
+**Evidence-based Characteristics:**
+
+1. Interest in emerging technologies:
+   - Discusses Apple Vision Pro extensively (Post 1ajbkqm, Comment koxdru9)
+   - Explores potential applications of new tech (Comment kty3brn)
+
+2. Gaming enthusiasm:
+   - Discusses strategy games like Manor Lords (Comment n2r16t2)
+   - Mentions Pokemon Go (Post 1ajbkqm)
+
+3. Finance-oriented:
+   - Discusses investment strategies and market trends (Comment l1dd4uo)
+   - Shows interest in economic impacts (Comment kqfsugw)
+
+4. Urban living in New York City:
+   - Mentions NYC-specific experiences (Post 1lykkqf)
+   - Discusses NYC public transportation (Comment l53atmk)
+
+5. Interest in anime/manga:
+   - References anime series like One Piece and Made in Abyss (Comment mswlma6, Comment li6au72)
+
+6. Tech professional background:
+   - Discusses coding and development tools (Comment kp8zy40)
+   - Mentions experience with various platforms and software (Comment koxdru9)
+
+7. Cultural awareness:
+   - Demonstrates knowledge of Japanese language and culture (Comment mswlma6)
+   - Discusses international perspectives (Comment l0b4nj7)
+
+8. Analytical approach:
+   - Provides detailed analysis of game strategies (Comment m0jx8h5)
+   - Evaluates pros and cons of new technologies (Comment koxdru9)
+
+This persona is based on a comprehensive analysis of /u/kojied's Reddit activity, showcasing a tech-savvy individual with diverse interests spanning technology, gaming, finance, and urban living, primarily based in New York City.
