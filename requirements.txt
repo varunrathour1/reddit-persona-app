@@ -4,3 +4,5 @@ anthropic
 fastapi
 uvicorn[standard]
 pydantic
+requests
+streamlit
